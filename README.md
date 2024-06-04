@@ -84,6 +84,7 @@ python main.py
 ### Deployment
 
 - IaC should be used for resources creation, choice of tool is up to you (Terraform, Crossplane,...)
+- Use resource tags for better organization
 - (Bonus) Create GitOps based IaC deployment. You can use any tool you want.
 - State file should be in remote location (if using IaC with state file)
 - Solution should be stored in GIT repository
