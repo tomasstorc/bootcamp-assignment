@@ -85,7 +85,6 @@ python main.py
 
 - IaC should be used for resources creation, choice of tool is up to you (Terraform, Crossplane,...)
 - Use resource tags for better organization
-- (Bonus) Create GitOps based IaC deployment. You can use any tool you want.
 - State file should be in remote location (if using IaC with state file)
 - Solution should be stored in GIT repository
 
@@ -93,3 +92,13 @@ python main.py
 
 - You will need to provide passwords for VM and database, do not store them in GIT
 - GitOps based deployment may need some secret as well, again, do not store it as plain text
+
+## Bonus tasks
+
+### Task 1 - Configure monitoring for VM
+
+- Enable metrics monitoring of Virtual Machine using Terraform
+
+### Task 2 - GitOps-based deployment of IaC solution
+
+- Solution should apply IaC changes whenever there is some kind of event in GIT repository related to code
