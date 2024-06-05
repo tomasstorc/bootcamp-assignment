@@ -95,9 +95,9 @@ python main.py
 
 ## Bonus tasks
 
-### Task 1 - Configure monitoring for VM
+### Task 1 - Configure VM Insights
 
-- Enable metrics monitoring of Virtual Machine using Terraform
+- Enable VM Insights for created Virtual machine
 
 ### Task 2 - GitOps-based deployment of IaC solution
 
