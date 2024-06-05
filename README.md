@@ -101,4 +101,4 @@ python main.py
 
 ### Task 2 - GitOps-based deployment of IaC solution
 
-- Solution should apply IaC changes whenever there is some kind of event in GIT repository related to code
+- Solution should apply IaC changes whenever there is some kind of event in GIT repository related to the code
