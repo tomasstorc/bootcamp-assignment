@@ -93,6 +93,10 @@ python main.py
 - You will need to provide passwords for VM and database, do not store them in GIT
 - GitOps based deployment may need some secret as well, again, do not store it as plain text
 
+### Costs
+
+- With respect to the requirements try to use SKU which will minimize costs.
+
 ## Bonus tasks
 
 ### Task 1 - Configure VM Insights
