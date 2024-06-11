@@ -107,6 +107,6 @@ python main.py
 
 - Solution should apply IaC changes whenever there is some kind of event in GIT repository related to the code
 
-### ask 3 - Install Python automatically
+### Task 3 - Install Python automatically
 
 - There is `installPython.ps1` script. Use this script to install Python on VM automatically.
