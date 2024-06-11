@@ -106,3 +106,7 @@ python main.py
 ### Task 2 - GitOps-based deployment of IaC solution
 
 - Solution should apply IaC changes whenever there is some kind of event in GIT repository related to the code
+
+### ask 3 - Install Python automatically
+
+- There is `installPython.ps1` script. Use this script to install Python on VM automatically.
